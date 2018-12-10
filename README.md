@@ -230,6 +230,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Sam Bailey](https://twitter.com/that_sam_guy/status/1071348043612545024)
 - [Sam Spilsbury](https://github.com/smspillaz)
 - [Samuel Leslie](https://github.com/ralish)
+- [Shane Crosby](https://github.com/shanecrosby)
 - [Shane MacPhillamy](https://twitter.com/coaic/status/1071153063715459072)
 - [Shaun Branden](https://twitter.com/parsect)
 - [Shaun Daws](https://github.com/shaundaws)
